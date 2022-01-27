@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @magoozz
 - 👀 I’m interested in being outside!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Computer Science at Boise State University
 - 📫 How to reach me meganbartlett73@u.boisestate.edu
 
 <!---
